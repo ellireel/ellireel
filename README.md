@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Elli. 👋
+I am a fourth year student at the University of Iowa double majoring in Business Analytics & Information Systems & Marketing. 
 
 <!--
 **ellireel/ellireel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
